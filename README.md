@@ -1,4 +1,4 @@
-**Credit-Card-Fraud-Detection**
+**Credit Card Fraud Detection**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Credit card fraud detection models play a crucial role in safeguarding people's financial security. These models use advanced algorithms and machine learning techniques to analyze various patterns and behaviors associated with fraudulent transactions. By examining factors like transaction amounts, locations, and spending patterns, these models can identify suspicious activities and flag them for further investigation. This helps financial institutions and cardholders detect and prevent fraudulent transactions before they cause significant damage. Ultimately, credit card fraud detection models provide an extra layer of protection and peace of mind for individuals using their cards for online and offline purchases.
